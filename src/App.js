@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <h1>Hi this is me trying to add react to github pages</h1>
-      </header>
+      
     </div>
   );
 }
